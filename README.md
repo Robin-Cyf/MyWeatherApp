@@ -1,2 +1,2 @@
 # MyWeatherApp
-MyWeatherApp tutorial
+Swift MyWeatherApp tutorial
